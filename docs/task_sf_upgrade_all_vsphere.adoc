@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: docs/task_sf_upgrade_all_vsphere.html 
+summary: Você pode atualizar o VMware Components para um sistema de storage SolidFire e executar etapas adicionais para reinstalar o vCenter Plug-in. 
+keywords: netapp, solidfire, vsphere components, upgrade, vCenter, ESXi 
+---
+= Atualize seus componentes vSphere para um sistema de storage NetApp SolidFire com o plug-in Element para vCenter Server
+:allow-uri-read: 
+
+
+[role="lead"]
+Quando você atualiza os componentes do VMware vSphere da instalação de storage do SolidFire Element, há algumas etapas adicionais que você precisará executar para sistemas com o plug-in Element para vCenter Server.
+
+.Passos
+. Para atualizações do vCSA, https://docs.netapp.com/us-en/vcp/vcp_task_qossioc.html#clear-qossioc-settings["limpar"^] as configurações do QoSSIOC no plug-in (*Configuração do NetApp Element > Configurações do QoSSIOC*). O campo *Status do QoSSIOC* é exibido `Not Configured` após o processo estar concluído.
+. Para atualizações do vCSA e do Windows, https://docs.netapp.com/us-en/vcp/task_vcp_unregister.html["anular registo"^] o plug-in do vCenter Server ao qual ele está associado usando o utilitário de Registro.
+. https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vcenter.upgrade.doc/GUID-7AFB6672-0B0B-4902-B254-EE6AE81993B2.html["Atualize o vSphere, incluindo vCenter Server, ESXi, VMs e outros componentes VMware"^].
+. https://docs.netapp.com/us-en/vcp/vcp_task_getstarted.html#register-the-plug-in-with-vcenter["Registe-se"^] O plug-in Element para vCenter Server novamente com o vCenter.
+. https://docs.netapp.com/us-en/vcp/vcp_task_getstarted.html#add-storage-clusters-for-use-with-the-plug-in["Adicionar clusters"^] utilizar o plug-in.
+. https://docs.netapp.com/us-en/vcp/vcp_task_getstarted.html#configure-qossioc-settings-using-the-plug-in["Configure as configurações do QoSSIOC"^] utilizar o plug-in.
+. https://docs.netapp.com/us-en/vcp/vcp_task_qossioc.html#enabling-qossioc-automation-on-datastores["Ative o QoSSIOC"^] para todos os datastores controlados pelo plug-in.
+
+
+[discrete]
+== Encontre mais informações
+
+* https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
+* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
+
