@@ -374,4 +374,4 @@ sidebar:
     - title: Substitua o nó de storage em um cluster de dois nós
       url: "/docs/task_hci_2noderepl.html"
   - title: Avisos legais
-    url: "/docs/reference_notices_hci.html"
+    url: "/legal-notices.html"
