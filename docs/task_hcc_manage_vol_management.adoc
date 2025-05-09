@@ -305,5 +305,4 @@ Depois que os volumes de armazenamento são excluídos, eles permanecem disponí
 * link:concept_hci_volumes.html["Saiba mais sobre volumes"]
 * http://docs.netapp.com/sfe-122/topic/com.netapp.doc.sfe-ug/GUID-2D2EAC0D-DD28-4ACA-A189-AA45E982EFDB.html["Trabalhe com volumes"^]
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 

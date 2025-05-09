@@ -62,5 +62,4 @@ NOTE: Como alternativa, você pode esperar 15 minutos para que o inventário sej
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 

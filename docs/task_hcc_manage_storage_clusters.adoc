@@ -196,5 +196,4 @@ Se você encontrar erros ao ativar ou desativar o modo de manutenção, um erro 
 == Encontre mais informações
 
 * link:task_mnode_manage_storage_cluster_assets.html["Criar e gerenciar ativos de cluster de storage"]
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 

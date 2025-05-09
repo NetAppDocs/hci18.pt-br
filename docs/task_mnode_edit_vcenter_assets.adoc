@@ -101,5 +101,4 @@ A API retorna informações atualizadas do controlador.
 
 * link:task_mnode_add_assets.html["Adicione um ativo ao nó de gerenciamento"]
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 

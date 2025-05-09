@@ -179,5 +179,4 @@ A seguir estão vulnerabilidades de segurança que foram resolvidas nesta versã
 == Encontre mais informações
 
 * https://docs.netapp.com/hci/index.jsp["Centro de Documentação do NetApp HCI"^]
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 

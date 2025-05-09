@@ -256,5 +256,4 @@ IMPORTANT: Se você já tinha desabilitado a funcionalidade SSH no nó de gerenc
 
 * link:concept_hci_volumes.html#persistent-volumes["Volumes persistentes"]
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 

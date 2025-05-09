@@ -132,5 +132,4 @@ NOTE: Certifique-se de que desativou a caixa de verificação *preservar todas a
 == Encontre mais informações
 
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 

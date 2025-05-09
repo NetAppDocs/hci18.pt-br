@@ -24,5 +24,4 @@ Com o NetApp HCI, você pode gerenciar esses ativos de storage usando o controle
 
 * http://docs.netapp.com/sfe-122/index.jsp["Centro de Documentação SolidFire e Element 12,2"^]
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 

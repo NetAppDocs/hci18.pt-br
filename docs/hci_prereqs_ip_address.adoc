@@ -70,6 +70,5 @@ O NetApp HCI reserva os seguintes intervalos de endereços IP para componentes d
 [discrete]
 == Encontre mais informações
 
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
 

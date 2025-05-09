@@ -28,6 +28,5 @@ Faça as seguintes preparações de DNS e Timeserver antes de implantar o NetApp
 [discrete]
 == Encontre mais informações
 
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
 

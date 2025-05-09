@@ -45,6 +45,5 @@ NOTE: Quando o processo de instalação do NetApp HCI instala nós de testemunha
 [discrete]
 == Encontre mais informações
 
-* https://www.netapp.com/hybrid-cloud/hci-documentation/["Página de recursos do NetApp HCI"^]
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in do NetApp Element para vCenter Server"^]
 
